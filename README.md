@@ -2,7 +2,6 @@
 
 An interactive web application built using Python and Streamlit that allows users to upload datasets, clean data, and generate visual insights automatically.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,7 @@ An interactive web application built using Python and Streamlit that allows user
 * Interactive dashboard with tabs and metrics
 * Download cleaned dataset
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +20,7 @@ An interactive web application built using Python and Streamlit that allows user
 * Matplotlib
 * Streamlit
 
----
+
 
 
 ## ▶️ How to Run
@@ -35,7 +34,7 @@ streamlit run app.py
 
 ## 💡 Project Objective
 
-To simplify data analysis for users by providing an easy-to-use interface for cleaning and visualizing datasets without coding.
+To simplify data analysis for users by providing an easy-to-use interface for cleaning and visualising datasets without coding.
 
 ---
 
