@@ -30,13 +30,13 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+
 
 ## 💡 Project Objective
 
 To simplify data analysis for users by providing an easy-to-use interface for cleaning and visualising datasets without coding.
 
----
+
 
 ## ✨ Author
 
